@@ -17,6 +17,18 @@
 # Programmers
 
 <details>
+<summary>Weekly Challenge</summary>
+<div markdown="Weekly Challenge">
+
+## [Weekly Challenge]
+|문제|링크|코드|카테고리| 
+|:---:|:---:|:---:|:---:| 
+|6주차|[문제 링크](https://programmers.co.kr/learn/courses/30/lessons/85002)|[문제 풀이](https://github.com/yh20studio/Algorithm-problem-solving/blob/master/programmers/Weekly Challenge/6주차.py)|구현, 우선순위 큐|
+|7주차|[문제 링크](https://programmers.co.kr/learn/courses/30/lessons/86048)|[문제 풀이](https://github.com/yh20studio/Algorithm-problem-solving/blob/master/programmers/Weekly Challenge/7주차.py)|구현|
+
+</div>
+
+<details>
 <summary>Lv 3</summary>
 <div markdown="3">
 
@@ -26,5 +38,7 @@
 |입국심사|[입국심사 문제 링크](https://programmers.co.kr/learn/courses/30/lessons/43238)|[입국심사 문제 풀이](https://github.com/yh20studio/Algorithm-problem-solving/blob/master/programmers/lv.3/입국심사.py)|이분탐색|
 
 </div>
+
+
 
 </details>
