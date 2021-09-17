@@ -10,6 +10,7 @@
 |합분해|[문제 링크](https://www.acmicpc.net/problem/2225)|[문제 풀이](https://github.com/yh20studio/Algorithm-problem-solving/blob/master/baekjoon/lv.gold/합분해.py)|다이나믹프로그래밍|
 |행렬곱셈순서|[문제 링크](https://www.acmicpc.net/problem/11049)|[문제 풀이](https://github.com/yh20studio/Algorithm-problem-solving/blob/master/baekjoon/lv.gold/행렬곱셈순서.py)|다이나믹프로그래밍|
 |외판원순회|[문제 링크](https://www.acmicpc.net/problem/2098)|[문제 풀이](https://github.com/yh20studio/Algorithm-problem-solving/blob/master/baekjoon/lv.gold/외판원순회.py)|다이나믹프로그래밍, 비트마스킹|
+|최솟값과최댓값|[문제 링크](https://www.acmicpc.net/problem/2357)|[문제 풀이](https://github.com/yh20studio/Algorithm-problem-solving/blob/master/baekjoon/lv.gold/최솟값과최댓값.py)|세그먼트 트리|
 </div>
 
 </details>
