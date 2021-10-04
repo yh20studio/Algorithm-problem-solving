@@ -13,6 +13,7 @@
 |최솟값과 최댓값|[문제 링크](https://www.acmicpc.net/problem/2357)|[문제 풀이](https://github.com/yh20studio/Algorithm-problem-solving/blob/master/baekjoon/lv.gold/최솟값과최댓값.py)|세그먼트 트리|
 |구간 합 구하기|[문제 링크](https://www.acmicpc.net/problem/2042)|[문제 풀이](https://github.com/yh20studio/Algorithm-problem-solving/blob/master/baekjoon/lv.gold/구간합구하기.py)|세그먼트 트리|
 |파이프 옮기기 1|[문제 링크](https://www.acmicpc.net/problem/17070)|[문제 풀이](https://github.com/yh20studio/Algorithm-problem-solving/blob/master/baekjoon/lv.gold/파이프옮기기1.py)|DFS, 다이나믹프로그맹|
+|가운데를 말해요|[문제 링크](https://www.acmicpc.net/problem/2042)|[문제 풀이](https://github.com/yh20studio/Algorithm-problem-solving/blob/master/baekjoon/lv.gold/가운데를말해요.py)|우선순위 큐, 구현|
 </div>
 
 </details>
@@ -40,7 +41,7 @@
 |:---:|:---:|:---:|:---:| 
 |6주차|[문제 링크](https://programmers.co.kr/learn/courses/30/lessons/85002)|[문제 풀이](https://github.com/yh20studio/Algorithm-problem-solving/blob/master/programmers/Weekly_Challenge/6주차.py)|구현, 우선순위 큐|
 |7주차|[문제 링크](https://programmers.co.kr/learn/courses/30/lessons/86048)|[문제 풀이](https://github.com/yh20studio/Algorithm-problem-solving/blob/master/programmers/Weekly_Challenge/7주차.py)|구현|
-
+|8주차|[문제 링크](https://programmers.co.kr/learn/courses/30/lessons/86491)|[문제 풀이](https://github.com/yh20studio/Algorithm-problem-solving/blob/master/programmers/Weekly_Challenge/8주차.py)|구현|
 </div>
 </details>
 
