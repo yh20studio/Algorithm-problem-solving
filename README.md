@@ -64,10 +64,10 @@
 <summary>Lv 4</summary>
 <div markdown="3">
 
-## [Lv 3]
+## [Lv 4]
 |문제|링크|코드|카테고리| 
 |:---:|:---:|:---:|:---:| 
 |지형이동|[문제 링크](https://programmers.co.kr/learn/courses/30/lessons/62050)|[문제 풀이](https://github.com/yh20studio/Algorithm-problem-solving/blob/master/programmers/lv.4/지형이동.py)|우선순위 큐, 탐색|
-
+|가사검색|[문제 링크](https://programmers.co.kr/learn/courses/30/lessons/60060)|[문제 풀이](https://github.com/yh20studio/Algorithm-problem-solving/blob/master/programmers/lv.4/가사검색.py)|트라이 구조|
 </div>
 </details>
