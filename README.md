@@ -15,6 +15,7 @@
 |파이프 옮기기 1|[문제 링크](https://www.acmicpc.net/problem/17070)|[문제 풀이](https://github.com/yh20studio/Algorithm-problem-solving/blob/master/baekjoon/lv.gold/파이프옮기기1.py)|DFS, 다이나믹프로그맹|
 |가운데를 말해요|[문제 링크](https://www.acmicpc.net/problem/2042)|[문제 풀이](https://github.com/yh20studio/Algorithm-problem-solving/blob/master/baekjoon/lv.gold/가운데를말해요.py)|우선순위 큐, 구현|
 |문제집|[문제 링크](https://www.acmicpc.net/problem/1766)|[문제 풀이](https://github.com/yh20studio/Algorithm-problem-solving/blob/master/baekjoon/lv.gold/문제집.py)|우선순위 큐, 구현|
+|낚시왕|[문제 링크](https://www.acmicpc.net/problem/17143)|[문제 풀이](https://github.com/yh20studio/Algorithm-problem-solving/blob/master/baekjoon/lv.gold/낚시왕.py)|구현|
 </div>
 
 </details>
