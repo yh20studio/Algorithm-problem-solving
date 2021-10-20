@@ -47,6 +47,7 @@
 |8주차|[문제 링크](https://programmers.co.kr/learn/courses/30/lessons/86491)|[문제 풀이](https://github.com/yh20studio/Algorithm-problem-solving/blob/master/programmers/Weekly_Challenge/8주차.py)|구현|
 |9주차|[문제 링크](https://programmers.co.kr/learn/courses/30/lessons/86971)|[문제 풀이](https://github.com/yh20studio/Algorithm-problem-solving/blob/master/programmers/Weekly_Challenge/9주차.py)|탐색, 구현|
 |10주차|[문제 링크](https://programmers.co.kr/learn/courses/30/lessons/87377)|[문제 풀이](https://github.com/yh20studio/Algorithm-problem-solving/blob/master/programmers/Weekly_Challenge/10주차.py)|역행렬, 구현|
+|11주차|[문제 링크](https://programmers.co.kr/learn/courses/30/lessons/87694)|[문제 풀이](https://github.com/yh20studio/Algorithm-problem-solving/blob/master/programmers/Weekly_Challenge/11주차.py)|좌표평면, 구현, BFS|
 </div>
 </details>
 
