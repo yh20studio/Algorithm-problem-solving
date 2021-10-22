@@ -18,6 +18,7 @@
 |낚시왕|[문제 링크](https://www.acmicpc.net/problem/17143)|[문제 풀이](https://github.com/yh20studio/Algorithm-problem-solving/blob/master/baekjoon/lv.gold/낚시왕.py)|구현|
 |보석도둑|[문제 링크](https://www.acmicpc.net/problem/1202)|[문제 풀이](https://github.com/yh20studio/Algorithm-problem-solving/blob/master/baekjoon/lv.gold/보석도둑.py)|우선순위 큐|
 |친구네트워크|[문제 링크](https://www.acmicpc.net/problem/4195)|[문제 풀이](https://github.com/yh20studio/Algorithm-problem-solving/blob/master/baekjoon/lv.gold/친구네트워크.py)|유니온 파인드|
+|음악프로그램|[문제 링크](https://www.acmicpc.net/problem/2623)|[문제 풀이](https://github.com/yh20studio/Algorithm-problem-solving/blob/master/baekjoon/lv.gold/음악프로그램.py)|BFS|
 </div>
 
 </details>
