@@ -1,5 +1,5 @@
 # https://www.acmicpc.net/problem/7453
-# Lv : gold
+# Lv : gold 2
 # Category : Dictionary
 
 # 시간의 제한을 지키는 것이 매우 힘들었다.

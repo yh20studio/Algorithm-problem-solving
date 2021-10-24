@@ -1,5 +1,5 @@
 # link : https://www.acmicpc.net/problem/2225
-# Lv : gold
+# Lv : gold 5
 # Category : 다이나믹프로그래밍
 
 import sys

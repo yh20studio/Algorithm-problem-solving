@@ -1,5 +1,5 @@
 # link : https://www.acmicpc.net/problem/2357
-# Lv : gold
+# Lv : gold 1
 # Category : 세그먼트 트리
 
 # 주어진 순서쌍을 이용해서 해당 범위내에서 최대, 최솟값을 찾아야 함.

@@ -1,5 +1,5 @@
 # link : https://www.acmicpc.net/problem/6549
-# Lv : platinum
+# Lv : platinum 5
 # Category : 세그먼트 트리, 분할정복
 
 # 해당 문제는 히스토그램의 넓이를 구할 때 사용해야할 높이 값이 양 옆의 히스토그램의 영향을 받으므로, 

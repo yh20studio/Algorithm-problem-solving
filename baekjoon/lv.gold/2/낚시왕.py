@@ -1,5 +1,5 @@
 # link : https://www.acmicpc.net/problem/17143
-# Lv : gold
+# Lv : gold 2
 # Category : 구현
 
 import sys  

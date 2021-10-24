@@ -7,19 +7,19 @@
 ## [Lv Gold]
 |문제|링크|코드|카테고리| 
 |:---:|:---:|:---:|:---:| 
-|합분해|[문제 링크](https://www.acmicpc.net/problem/2225)|[문제 풀이](https://github.com/yh20studio/Algorithm-problem-solving/blob/master/baekjoon/lv.gold/합분해.py)|다이나믹프로그래밍|
-|행렬곱셈순서|[문제 링크](https://www.acmicpc.net/problem/11049)|[문제 풀이](https://github.com/yh20studio/Algorithm-problem-solving/blob/master/baekjoon/lv.gold/행렬곱셈순서.py)|다이나믹프로그래밍|
-|외판원순회|[문제 링크](https://www.acmicpc.net/problem/2098)|[문제 풀이](https://github.com/yh20studio/Algorithm-problem-solving/blob/master/baekjoon/lv.gold/외판원순회.py)|다이나믹프로그래밍, 비트마스킹|
-|최솟값과 최댓값|[문제 링크](https://www.acmicpc.net/problem/2357)|[문제 풀이](https://github.com/yh20studio/Algorithm-problem-solving/blob/master/baekjoon/lv.gold/최솟값과최댓값.py)|세그먼트 트리|
-|구간 합 구하기|[문제 링크](https://www.acmicpc.net/problem/2042)|[문제 풀이](https://github.com/yh20studio/Algorithm-problem-solving/blob/master/baekjoon/lv.gold/구간합구하기.py)|세그먼트 트리|
-|파이프 옮기기 1|[문제 링크](https://www.acmicpc.net/problem/17070)|[문제 풀이](https://github.com/yh20studio/Algorithm-problem-solving/blob/master/baekjoon/lv.gold/파이프옮기기1.py)|DFS, 다이나믹프로그맹|
-|가운데를 말해요|[문제 링크](https://www.acmicpc.net/problem/2042)|[문제 풀이](https://github.com/yh20studio/Algorithm-problem-solving/blob/master/baekjoon/lv.gold/가운데를말해요.py)|우선순위 큐, 구현|
-|문제집|[문제 링크](https://www.acmicpc.net/problem/1766)|[문제 풀이](https://github.com/yh20studio/Algorithm-problem-solving/blob/master/baekjoon/lv.gold/문제집.py)|우선순위 큐, 구현|
-|낚시왕|[문제 링크](https://www.acmicpc.net/problem/17143)|[문제 풀이](https://github.com/yh20studio/Algorithm-problem-solving/blob/master/baekjoon/lv.gold/낚시왕.py)|구현|
-|보석 도둑|[문제 링크](https://www.acmicpc.net/problem/1202)|[문제 풀이](https://github.com/yh20studio/Algorithm-problem-solving/blob/master/baekjoon/lv.gold/보석도둑.py)|우선순위 큐|
-|친구 네트워크|[문제 링크](https://www.acmicpc.net/problem/4195)|[문제 풀이](https://github.com/yh20studio/Algorithm-problem-solving/blob/master/baekjoon/lv.gold/친구네트워크.py)|유니온 파인드|
-|음악 프로그램|[문제 링크](https://www.acmicpc.net/problem/2623)|[문제 풀이](https://github.com/yh20studio/Algorithm-problem-solving/blob/master/baekjoon/lv.gold/음악프로그램.py)|BFS|
-|합이 0인 네 정수|[문제 링크](https://www.acmicpc.net/problem/7453)|[문제 풀이](https://github.com/yh20studio/Algorithm-problem-solving/blob/master/baekjoon/lv.gold/합이0인네정수.py)|Dictionary|
+|합분해|[문제 링크](https://www.acmicpc.net/problem/2225)|[문제 풀이](https://github.com/yh20studio/Algorithm-problem-solving/blob/master/baekjoon/lv.gold/5/합분해.py)|다이나믹프로그래밍|
+|행렬곱셈순서|[문제 링크](https://www.acmicpc.net/problem/11049)|[문제 풀이](https://github.com/yh20studio/Algorithm-problem-solving/blob/master/baekjoon/lv.gold/3/행렬곱셈순서.py)|다이나믹프로그래밍|
+|외판원순회|[문제 링크](https://www.acmicpc.net/problem/2098)|[문제 풀이](https://github.com/yh20studio/Algorithm-problem-solving/blob/master/baekjoon/lv.gold/1/외판원순회.py)|다이나믹프로그래밍, 비트마스킹|
+|최솟값과 최댓값|[문제 링크](https://www.acmicpc.net/problem/2357)|[문제 풀이](https://github.com/yh20studio/Algorithm-problem-solving/blob/master/baekjoon/lv.gold/1/최솟값과최댓값.py)|세그먼트 트리|
+|구간 합 구하기|[문제 링크](https://www.acmicpc.net/problem/2042)|[문제 풀이](https://github.com/yh20studio/Algorithm-problem-solving/blob/master/baekjoon/lv.gold/1/구간합구하기.py)|세그먼트 트리|
+|파이프 옮기기 1|[문제 링크](https://www.acmicpc.net/problem/17070)|[문제 풀이](https://github.com/yh20studio/Algorithm-problem-solving/blob/master/baekjoon/lv.gold/5/파이프옮기기1.py)|DFS, 다이나믹프로그맹|
+|가운데를 말해요|[문제 링크](https://www.acmicpc.net/problem/2042)|[문제 풀이](https://github.com/yh20studio/Algorithm-problem-solving/blob/master/baekjoon/lv.gold/2/가운데를말해요.py)|우선순위 큐, 구현|
+|문제집|[문제 링크](https://www.acmicpc.net/problem/1766)|[문제 풀이](https://github.com/yh20studio/Algorithm-problem-solving/blob/master/baekjoon/lv.gold/2/문제집.py)|우선순위 큐, 구현|
+|낚시왕|[문제 링크](https://www.acmicpc.net/problem/17143)|[문제 풀이](https://github.com/yh20studio/Algorithm-problem-solving/blob/master/baekjoon/lv.gold/2/낚시왕.py)|구현|
+|보석 도둑|[문제 링크](https://www.acmicpc.net/problem/1202)|[문제 풀이](https://github.com/yh20studio/Algorithm-problem-solving/blob/master/baekjoon/lv.gold/2/보석도둑.py)|우선순위 큐|
+|친구 네트워크|[문제 링크](https://www.acmicpc.net/problem/4195)|[문제 풀이](https://github.com/yh20studio/Algorithm-problem-solving/blob/master/baekjoon/lv.gold/2/친구네트워크.py)|유니온 파인드|
+|음악 프로그램|[문제 링크](https://www.acmicpc.net/problem/2623)|[문제 풀이](https://github.com/yh20studio/Algorithm-problem-solving/blob/master/baekjoon/lv.gold/2/음악프로그램.py)|BFS|
+|합이 0인 네 정수|[문제 링크](https://www.acmicpc.net/problem/7453)|[문제 풀이](https://github.com/yh20studio/Algorithm-problem-solving/blob/master/baekjoon/lv.gold/2/합이0인네정수.py)|Dictionary|
 </div>
 
 </details>
@@ -31,7 +31,7 @@
 ## [Lv Platinum]
 |문제|링크|코드|카테고리| 
 |:---:|:---:|:---:|:---:| 
-|히스토그램에서 가장 큰 직사각형|[문제 링크](https://www.acmicpc.net/problem/6549)|[문제 풀이](https://github.com/yh20studio/Algorithm-problem-solving/blob/master/baekjoon/lv.platinum/히스토그램에서가장큰직사각형.py)|세그먼트 트리, 분할 정복|
+|히스토그램에서 가장 큰 직사각형|[문제 링크](https://www.acmicpc.net/problem/6549)|[문제 풀이](https://github.com/yh20studio/Algorithm-problem-solving/blob/master/baekjoon/lv.platinum/5/히스토그램에서가장큰직사각형.py)|세그먼트 트리, 분할 정복|
 </div>
 
 </details>

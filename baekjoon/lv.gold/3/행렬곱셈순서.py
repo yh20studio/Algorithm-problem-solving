@@ -1,5 +1,5 @@
 # link : https://www.acmicpc.net/problem/11049
-# Lv : gold
+# Lv : gold 3
 # Category : 다이나믹프로그래밍
 
 

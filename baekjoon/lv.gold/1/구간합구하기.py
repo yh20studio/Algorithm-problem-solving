@@ -1,5 +1,5 @@
 # link : https://www.acmicpc.net/problem/2042
-# Lv : gold
+# Lv : gold 1
 # Category : 세그먼트 트리
 
 import sys  

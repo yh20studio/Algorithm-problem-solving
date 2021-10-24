@@ -1,5 +1,5 @@
 # link : https://www.acmicpc.net/problem/4195
-# Lv : gold
+# Lv : gold 2
 # Category : 유니온 파인드
 
 # 각 Name이 주어지고 연결 네트워크를 구성하는 문제이다.

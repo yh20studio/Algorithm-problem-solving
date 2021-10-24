@@ -1,5 +1,5 @@
 # link : https://www.acmicpc.net/problem/2098
-# Lv : gold
+# Lv : gold 1
 # Category : 다이나믹프로그래밍, 비트마스킹
 
 import sys

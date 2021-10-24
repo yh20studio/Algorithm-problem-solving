@@ -1,5 +1,5 @@
 # https://www.acmicpc.net/problem/2623
-# Lv : gold
+# Lv : gold 2
 # Category : BFS
 
 # 가수들끼리의 순서가 존재하는 것이며, 선행되어야 하는 순서가 존재하는 문제이다.

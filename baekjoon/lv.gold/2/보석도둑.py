@@ -1,5 +1,5 @@
 # link : https://www.acmicpc.net/problem/1202
-# Lv : gold
+# Lv : gold 2
 # Category : 우선순위 큐
 
 # 보석을 가방에 한개씩만 담을 수 있으므로 매 가방마다 넣을 수 있는 보석 리스트에서 

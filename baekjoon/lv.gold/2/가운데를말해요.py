@@ -1,5 +1,5 @@
 # link : https://www.acmicpc.net/problem/2042
-# Lv : gold
+# Lv : gold 2
 # Category : 우선순위 큐, 구현
 
 # 여러가지의 방법이 있으나 시간초과 현상으로 왼쪽, 오른쪽 우선순위큐를 2개를 사용해서 각각 구현하여 비교하는 것이 빠르다.
