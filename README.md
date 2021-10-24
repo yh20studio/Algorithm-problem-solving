@@ -61,7 +61,7 @@
 ## [Lv 2]
 |문제|링크|코드|카테고리| 
 |:---:|:---:|:---:|:---:| 
-|타켓 넘버|[문제 링크](https://programmers.co.kr/learn/courses/30/lessons/43238)|[문제 풀이](https://github.com/yh20studio/Algorithm-problem-solving/blob/master/programmers/lv.2/타겟넘버.py)|DFS|
+|타겟 넘버|[문제 링크](https://programmers.co.kr/learn/courses/30/lessons/43165)|[문제 풀이](https://github.com/yh20studio/Algorithm-problem-solving/blob/master/programmers/lv.2/타겟넘버.py)|DFS|
 |오픈 채팅방|[문제 링크](https://programmers.co.kr/learn/courses/30/lessons/42888)|[문제 풀이](https://github.com/yh20studio/Algorithm-problem-solving/blob/master/programmers/lv.2/오픈채팅방.py)|Dictionary, 구현|
 |124 나라의 숫자|[문제 링크](https://programmers.co.kr/learn/courses/30/lessons/12899)|[문제 풀이](https://github.com/yh20studio/Algorithm-problem-solving/blob/master/programmers/lv.2/124나라의숫자.py)|이진법|
 |기능개발|[문제 링크](https://programmers.co.kr/learn/courses/30/lessons/42586)|[문제 풀이](https://github.com/yh20studio/Algorithm-problem-solving/blob/master/programmers/lv.2/기능개발.py)|반복문|
@@ -78,8 +78,8 @@
 |문제|링크|코드|카테고리| 
 |:---:|:---:|:---:|:---:| 
 |추석 트래픽|[문제 링크](https://programmers.co.kr/learn/courses/30/lessons/17676)|[문제 풀이](https://github.com/yh20studio/Algorithm-problem-solving/blob/master/programmers/lv.3/추석트래픽.py)|파싱, 부동소수점|
-|단어 변환|[문제 링크](https://programmers.co.kr/learn/courses/30/lessons/43165)|[문제 풀이](https://github.com/yh20studio/Algorithm-problem-solving/blob/master/programmers/lv.3/단어변환.py)|이분탐색|
-|네트워크|[문제 링크](https://programmers.co.kr/learn/courses/30/lessons/43162)|[문제 풀이](https://github.com/yh20studio/Algorithm-problem-solving/blob/master/programmers/lv.3/네트워크.py)|이분탐색|
+|단어 변환|[문제 링크](https://programmers.co.kr/learn/courses/30/lessons/43163)|[문제 풀이](https://github.com/yh20studio/Algorithm-problem-solving/blob/master/programmers/lv.3/단어변환.py)|DFS|
+|네트워크|[문제 링크](https://programmers.co.kr/learn/courses/30/lessons/43162)|[문제 풀이](https://github.com/yh20studio/Algorithm-problem-solving/blob/master/programmers/lv.3/네트워크.py)|BFS|
 |입국 심사|[문제 링크](https://programmers.co.kr/learn/courses/30/lessons/43238)|[문제 풀이](https://github.com/yh20studio/Algorithm-problem-solving/blob/master/programmers/lv.3/입국심사.py)|이분탐색|
 
 </div>
