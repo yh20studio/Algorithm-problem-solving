@@ -24,7 +24,7 @@
 |평범한 배낭|[문제 링크](https://www.acmicpc.net/problem/12865)|[문제 풀이](https://github.com/yh20studio/Algorithm-problem-solving/blob/master/baekjoon/lv.gold/5/평범한배낭.py)|다이나믹프로그래밍, 배낭 알고리즘|5|
 |뱀|[문제 링크](https://www.acmicpc.net/problem/3190)|[문제 풀이](https://github.com/yh20studio/Algorithm-problem-solving/blob/master/baekjoon/lv.gold/5/뱀.py)|큐, 구현|5|
 |리모콘|[문제 링크](https://www.acmicpc.net/problem/1107)|[문제 풀이](https://github.com/yh20studio/Algorithm-problem-solving/blob/master/baekjoon/lv.gold/5/리모콘.py)|브루트포스|5|
-|톱니바퀴|[문제 링크](https://www.acmicpc.net/problem/14891)|[문제 풀이](https://github.com/yh20studio/Algorithm-problem-solving/blob/master/baekjoon/lv.gold/5/톱니바퀴.py)|브루트포스|5|
+|톱니바퀴|[문제 링크](https://www.acmicpc.net/problem/14891)|[문제 풀이](https://github.com/yh20studio/Algorithm-problem-solving/blob/master/baekjoon/lv.gold/5/톱니바퀴.py)|구현|5|
 </div>
 
 </details>
