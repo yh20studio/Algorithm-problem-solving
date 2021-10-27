@@ -25,6 +25,8 @@
 |뱀|[문제 링크](https://www.acmicpc.net/problem/3190)|[문제 풀이](https://github.com/yh20studio/Algorithm-problem-solving/blob/master/baekjoon/lv.gold/5/뱀.py)|큐, 구현|5|
 |리모콘|[문제 링크](https://www.acmicpc.net/problem/1107)|[문제 풀이](https://github.com/yh20studio/Algorithm-problem-solving/blob/master/baekjoon/lv.gold/5/리모콘.py)|브루트포스|5|
 |톱니바퀴|[문제 링크](https://www.acmicpc.net/problem/14891)|[문제 풀이](https://github.com/yh20studio/Algorithm-problem-solving/blob/master/baekjoon/lv.gold/5/톱니바퀴.py)|구현|5|
+|AC|[문제 링크](https://www.acmicpc.net/problem/5430)|[문제 풀이](https://github.com/yh20studio/Algorithm-problem-solving/blob/master/baekjoon/lv.gold/5/AC.py)|큐, 구현|5|
+|최소 비용 구하기|[문제 링크](https://www.acmicpc.net/problem/1916)|[문제 풀이](https://github.com/yh20studio/Algorithm-problem-solving/blob/master/baekjoon/lv.gold/5/최소비용구하기.py)|다익스트라, 우선순위 큐|5|
 </div>
 
 </details>
