@@ -8,7 +8,7 @@
 |문제|링크|코드|카테고리|난이도|
 |:---:|:---:|:---:|:---:|:---:|
 |미로 탐색|[문제 링크](https://www.acmicpc.net/problem/2178)|[문제 풀이](https://github.com/yh20studio/Algorithm-problem-solving/blob/master/baekjoon/lv.silver/1/미로탐색.py)|BFS|1|
-|RGB 거리|[문제 링크](https://www.acmicpc.net/problem/1149)|[문제 풀이](https://github.com/yh20studio/Algorithm-problem-solving/blob/master/baekjoon/lv.silver/1/RGB거리.py)|BFS|1|
+|RGB 거리|[문제 링크](https://www.acmicpc.net/problem/1149)|[문제 풀이](https://github.com/yh20studio/Algorithm-problem-solving/blob/master/baekjoon/lv.silver/1/RGB거리.py)|다이나믹프로그래밍|1|
 </div>
 
 </details>
@@ -27,7 +27,7 @@
 |최단경로|[문제 링크](https://www.acmicpc.net/problem/1753)|[문제 풀이](https://github.com/yh20studio/Algorithm-problem-solving/blob/master/baekjoon/lv.gold/5/최단경로.py)|다익스트라, 우선순위 큐|5|
 |LCS|[문제 링크](https://www.acmicpc.net/problem/9251)|[문제 풀이](https://github.com/yh20studio/Algorithm-problem-solving/blob/master/baekjoon/lv.gold/5/LCS.py)|LCS 알고리즘|5|
 |로봇청소기|[문제 링크](https://www.acmicpc.net/problem/14503)|[문제 풀이](https://github.com/yh20studio/Algorithm-problem-solving/blob/master/baekjoon/lv.gold/5/로봇청소기.py)|구현|5|
-|암호 만들기|[문제 링크](https://www.acmicpc.net/problem/1759)|[문제 풀이](https://github.com/yh20studio/Algorithm-problem-solving/blob/master/baekjoon/lv.gold/5/암호만들기.py)|구현|5|
+|암호 만들기|[문제 링크](https://www.acmicpc.net/problem/1759)|[문제 풀이](https://github.com/yh20studio/Algorithm-problem-solving/blob/master/baekjoon/lv.gold/5/암호만들기.py)|조합, 구현|5|
 |벽 부수고 이동하기|[문제 링크](https://www.acmicpc.net/problem/2206)|[문제 풀이](https://github.com/yh20studio/Algorithm-problem-solving/blob/master/baekjoon/lv.gold/4/벽부수고이동하기.py)|BFS|4|
 |스도쿠|[문제 링크](https://www.acmicpc.net/problem/2580)|[문제 풀이](https://github.com/yh20studio/Algorithm-problem-solving/blob/master/baekjoon/lv.gold/4/스도쿠.py)|백트레킹|4|
 |주사위 굴리기|[문제 링크](https://www.acmicpc.net/problem/14499)|[문제 풀이](https://github.com/yh20studio/Algorithm-problem-solving/blob/master/baekjoon/lv.gold/4/주사위굴리기.py)|구현|4|
