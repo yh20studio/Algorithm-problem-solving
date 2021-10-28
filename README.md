@@ -27,6 +27,7 @@
 |톱니바퀴|[문제 링크](https://www.acmicpc.net/problem/14891)|[문제 풀이](https://github.com/yh20studio/Algorithm-problem-solving/blob/master/baekjoon/lv.gold/5/톱니바퀴.py)|구현|5|
 |AC|[문제 링크](https://www.acmicpc.net/problem/5430)|[문제 풀이](https://github.com/yh20studio/Algorithm-problem-solving/blob/master/baekjoon/lv.gold/5/AC.py)|큐, 구현|5|
 |최소 비용 구하기|[문제 링크](https://www.acmicpc.net/problem/1916)|[문제 풀이](https://github.com/yh20studio/Algorithm-problem-solving/blob/master/baekjoon/lv.gold/5/최소비용구하기.py)|다익스트라, 우선순위 큐|5|
+|감시|[문제 링크](https://www.acmicpc.net/problem/15683)|[문제 풀이](https://github.com/yh20studio/Algorithm-problem-solving/blob/master/baekjoon/lv.gold/5/감시.py)|DFS|5|
 </div>
 
 </details>
@@ -88,6 +89,7 @@
 |단어 변환|[문제 링크](https://programmers.co.kr/learn/courses/30/lessons/43163)|[문제 풀이](https://github.com/yh20studio/Algorithm-problem-solving/blob/master/programmers/lv.3/단어변환.py)|DFS|
 |네트워크|[문제 링크](https://programmers.co.kr/learn/courses/30/lessons/43162)|[문제 풀이](https://github.com/yh20studio/Algorithm-problem-solving/blob/master/programmers/lv.3/네트워크.py)|BFS|
 |입국 심사|[문제 링크](https://programmers.co.kr/learn/courses/30/lessons/43238)|[문제 풀이](https://github.com/yh20studio/Algorithm-problem-solving/blob/master/programmers/lv.3/입국심사.py)|이분탐색|
+|가장 먼 노드|[문제 링크](https://programmers.co.kr/learn/courses/30/lessons/49189)|[문제 풀이](https://github.com/yh20studio/Algorithm-problem-solving/blob/master/programmers/lv.3/가장먼노드.py)|다익스트라, 우선순위 큐|
 
 </div>
 </details>
