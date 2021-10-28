@@ -1,12 +1,39 @@
 # BaekJoon
 
 <details>
+<summary>Lv Silver</summary>
+<div markdown="silver">
+
+## [Lv Silver]
+|문제|링크|코드|카테고리|난이도|
+|:---:|:---:|:---:|:---:|:---:|
+|미로 탐색|[문제 링크](https://www.acmicpc.net/problem/2178)|[문제 풀이](https://github.com/yh20studio/Algorithm-problem-solving/blob/master/baekjoon/lv.silver/1/미로탐색.py)|BFS|1|
+|RGB 거리|[문제 링크](https://www.acmicpc.net/problem/1149)|[문제 풀이](https://github.com/yh20studio/Algorithm-problem-solving/blob/master/baekjoon/lv.silver/1/RGB거리.py)|BFS|1|
+</div>
+
+</details>
+
+<details>
 <summary>Lv Gold</summary>
 <div markdown="gold">
 
 ## [Lv Gold]
 |문제|링크|코드|카테고리|난이도|
 |:---:|:---:|:---:|:---:|:---:| 
+|N-Queen|[문제 링크](https://www.acmicpc.net/problem/9663)|[문제 풀이](https://github.com/yh20studio/Algorithm-problem-solving/blob/master/baekjoon/lv.gold/5/N-Queen.py)|백트레킹|5|
+|합분해|[문제 링크](https://www.acmicpc.net/problem/2225)|[문제 풀이](https://github.com/yh20studio/Algorithm-problem-solving/blob/master/baekjoon/lv.gold/5/합분해.py)|다이나믹프로그래밍|5|
+|연구소|[문제 링크](https://www.acmicpc.net/problem/14502)|[문제 풀이](https://github.com/yh20studio/Algorithm-problem-solving/blob/master/baekjoon/lv.gold/5/연구소.py)|조합, BFS|5|
+|알파벳|[문제 링크](https://www.acmicpc.net/problem/1987)|[문제 풀이](https://github.com/yh20studio/Algorithm-problem-solving/blob/master/baekjoon/lv.gold/4/알파벳.py)|DFS|4|
+|최단경로|[문제 링크](https://www.acmicpc.net/problem/1753)|[문제 풀이](https://github.com/yh20studio/Algorithm-problem-solving/blob/master/baekjoon/lv.gold/5/최단경로.py)|다익스트라, 우선순위 큐|5|
+|LCS|[문제 링크](https://www.acmicpc.net/problem/9251)|[문제 풀이](https://github.com/yh20studio/Algorithm-problem-solving/blob/master/baekjoon/lv.gold/5/LCS.py)|LCS 알고리즘|5|
+|로봇청소기|[문제 링크](https://www.acmicpc.net/problem/14503)|[문제 풀이](https://github.com/yh20studio/Algorithm-problem-solving/blob/master/baekjoon/lv.gold/5/로봇청소기.py)|구현|5|
+|암호 만들기|[문제 링크](https://www.acmicpc.net/problem/1759)|[문제 풀이](https://github.com/yh20studio/Algorithm-problem-solving/blob/master/baekjoon/lv.gold/5/암호만들기.py)|구현|5|
+|벽 부수고 이동하기|[문제 링크](https://www.acmicpc.net/problem/2206)|[문제 풀이](https://github.com/yh20studio/Algorithm-problem-solving/blob/master/baekjoon/lv.gold/4/벽부수고이동하기.py)|BFS|4|
+|스도쿠|[문제 링크](https://www.acmicpc.net/problem/2580)|[문제 풀이](https://github.com/yh20studio/Algorithm-problem-solving/blob/master/baekjoon/lv.gold/4/스도쿠.py)|백트레킹|4|
+|주사위 굴리기|[문제 링크](https://www.acmicpc.net/problem/14499)|[문제 풀이](https://github.com/yh20studio/Algorithm-problem-solving/blob/master/baekjoon/lv.gold/4/주사위굴리기.py)|구현|4|
+|가장 긴 바이토닉 부분 수열|[문제 링크](https://www.acmicpc.net/problem/11054)|[문제 풀이](https://github.com/yh20studio/Algorithm-problem-solving/blob/master/baekjoon/lv.gold/3/가장긴바이토닉부분수열.py)|다이나믹프로그래밍|3|
+|경사로|[문제 링크](https://www.acmicpc.net/problem/14890)|[문제 풀이](https://github.com/yh20studio/Algorithm-problem-solving/blob/master/baekjoon/lv.gold/3/경사로.py)|구현|3|
+|ACM Craft|[문제 링크](https://www.acmicpc.net/problem/1005)|[문제 풀이](https://github.com/yh20studio/Algorithm-problem-solving/blob/master/baekjoon/lv.gold/3/ACMCraft.py)|위상정렬|3|
 |합분해|[문제 링크](https://www.acmicpc.net/problem/2225)|[문제 풀이](https://github.com/yh20studio/Algorithm-problem-solving/blob/master/baekjoon/lv.gold/5/합분해.py)|다이나믹프로그래밍|5|
 |행렬곱셈순서|[문제 링크](https://www.acmicpc.net/problem/11049)|[문제 풀이](https://github.com/yh20studio/Algorithm-problem-solving/blob/master/baekjoon/lv.gold/3/행렬곱셈순서.py)|다이나믹프로그래밍|3|
 |외판원순회|[문제 링크](https://www.acmicpc.net/problem/2098)|[문제 풀이](https://github.com/yh20studio/Algorithm-problem-solving/blob/master/baekjoon/lv.gold/1/외판원순회.py)|다이나믹프로그래밍, 비트마스킹|1|
