@@ -55,6 +55,7 @@
 |AC|[문제 링크](https://www.acmicpc.net/problem/5430)|[문제 풀이](https://github.com/yh20studio/Algorithm-problem-solving/blob/master/baekjoon/lv.gold/5/AC.py)|큐, 구현|5|
 |최소 비용 구하기|[문제 링크](https://www.acmicpc.net/problem/1916)|[문제 풀이](https://github.com/yh20studio/Algorithm-problem-solving/blob/master/baekjoon/lv.gold/5/최소비용구하기.py)|다익스트라, 우선순위 큐|5|
 |감시|[문제 링크](https://www.acmicpc.net/problem/15683)|[문제 풀이](https://github.com/yh20studio/Algorithm-problem-solving/blob/master/baekjoon/lv.gold/5/감시.py)|DFS|5|
+|인구 이동|[문제 링크](https://www.acmicpc.net/problem/16234)|[문제 풀이](https://github.com/yh20studio/Algorithm-problem-solving/blob/master/baekjoon/lv.gold/5/인구이동.py)|BFS|5|
 </div>
 
 </details>
@@ -117,6 +118,7 @@
 |네트워크|[문제 링크](https://programmers.co.kr/learn/courses/30/lessons/43162)|[문제 풀이](https://github.com/yh20studio/Algorithm-problem-solving/blob/master/programmers/lv.3/네트워크.py)|BFS|
 |입국 심사|[문제 링크](https://programmers.co.kr/learn/courses/30/lessons/43238)|[문제 풀이](https://github.com/yh20studio/Algorithm-problem-solving/blob/master/programmers/lv.3/입국심사.py)|이분탐색|
 |가장 먼 노드|[문제 링크](https://programmers.co.kr/learn/courses/30/lessons/49189)|[문제 풀이](https://github.com/yh20studio/Algorithm-problem-solving/blob/master/programmers/lv.3/가장먼노드.py)|다익스트라, 우선순위 큐|
+|디스크 컨트롤러|[문제 링크](https://programmers.co.kr/learn/courses/30/lessons/42627)|[문제 풀이](https://github.com/yh20studio/Algorithm-problem-solving/blob/master/programmers/lv.3/디스크컨트롤러.py)|우선순위 큐|
 
 </div>
 </details>
