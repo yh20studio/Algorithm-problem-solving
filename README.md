@@ -68,6 +68,7 @@
 |감시|[문제 링크](https://www.acmicpc.net/problem/15683)|[문제 풀이](https://github.com/yh20studio/Algorithm-problem-solving/blob/master/baekjoon/lv.gold/5/감시.py)|DFS|5|
 |인구 이동|[문제 링크](https://www.acmicpc.net/problem/16234)|[문제 풀이](https://github.com/yh20studio/Algorithm-problem-solving/blob/master/baekjoon/lv.gold/5/인구이동.py)|BFS|5|
 |탑|[문제 링크](https://www.acmicpc.net/problem/2493)|[문제 풀이](https://github.com/yh20studio/Algorithm-problem-solving/blob/master/baekjoon/lv.gold/5/탑.py)|스택|5|
+|DSLR|[문제 링크](https://www.acmicpc.net/problem/9019)|[문제 풀이](https://github.com/yh20studio/Algorithm-problem-solving/blob/master/baekjoon/lv.gold/5/DSLR.py)|BFS|5|
 </div>
 
 </details>
