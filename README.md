@@ -9,6 +9,7 @@
 |:---:|:---:|:---:|:---:|:---:|
 |미로 탐색|[문제 링크](https://www.acmicpc.net/problem/2178)|[문제 풀이](https://github.com/yh20studio/Algorithm-problem-solving/blob/master/baekjoon/lv.silver/1/미로탐색.py)|BFS|1|
 |RGB 거리|[문제 링크](https://www.acmicpc.net/problem/1149)|[문제 풀이](https://github.com/yh20studio/Algorithm-problem-solving/blob/master/baekjoon/lv.silver/1/RGB거리.py)|다이나믹프로그래밍|1|
+|단지번호 붙이기|[문제 링크](https://www.acmicpc.net/problem/2667)|[문제 풀이](https://github.com/yh20studio/Algorithm-problem-solving/blob/master/baekjoon/lv.silver/1/단지번호붙이기.py)|BFS|1|
 </div>
 
 </details>
@@ -34,6 +35,16 @@
 |가장 긴 바이토닉 부분 수열|[문제 링크](https://www.acmicpc.net/problem/11054)|[문제 풀이](https://github.com/yh20studio/Algorithm-problem-solving/blob/master/baekjoon/lv.gold/3/가장긴바이토닉부분수열.py)|다이나믹프로그래밍|3|
 |경사로|[문제 링크](https://www.acmicpc.net/problem/14890)|[문제 풀이](https://github.com/yh20studio/Algorithm-problem-solving/blob/master/baekjoon/lv.gold/3/경사로.py)|구현|3|
 |ACM Craft|[문제 링크](https://www.acmicpc.net/problem/1005)|[문제 풀이](https://github.com/yh20studio/Algorithm-problem-solving/blob/master/baekjoon/lv.gold/3/ACMCraft.py)|위상정렬|3|
+|파티|[문제 링크](https://www.acmicpc.net/problem/1238)|[문제 풀이](https://github.com/yh20studio/Algorithm-problem-solving/blob/master/baekjoon/lv.gold/3/파티.py)|다익스트라, 우선순위 큐|3|
+|욕심쟁이 판다|[문제 링크](https://www.acmicpc.net/problem/1937)|[문제 풀이](https://github.com/yh20studio/Algorithm-problem-solving/blob/master/baekjoon/lv.gold/3/욕심쟁이판다.py)|DFS, 다이나믹프로그래밍|3|
+|집합의 표현|[문제 링크](https://www.acmicpc.net/problem/1717)|[문제 풀이](https://github.com/yh20studio/Algorithm-problem-solving/blob/master/baekjoon/lv.gold/4/집합의표현.py)|유니온파인드|4|
+|최소 스패닝 트리|[문제 링크](https://www.acmicpc.net/problem/1197)|[문제 풀이](https://github.com/yh20studio/Algorithm-problem-solving/blob/master/baekjoon/lv.gold/4/최소스패닝트리.py)|MST, 프림알고리즘|4|
+|내리막길|[문제 링크](https://www.acmicpc.net/problem/1520)|[문제 풀이](https://github.com/yh20studio/Algorithm-problem-solving/blob/master/baekjoon/lv.gold/4/내리막길.py)|DFS|4|
+|아기상어|[문제 링크](https://www.acmicpc.net/problem/16236)|[문제 풀이](https://github.com/yh20studio/Algorithm-problem-solving/blob/master/baekjoon/lv.gold/4/아기상어.py)|BFS, 우선순위 큐|4|
+|줄 세우기|[문제 링크](https://www.acmicpc.net/problem/2252)|[문제 풀이](https://github.com/yh20studio/Algorithm-problem-solving/blob/master/baekjoon/lv.gold/2/줄세우기.py)|위상정렬|2|
+|테트로미노|[문제 링크](https://www.acmicpc.net/problem/14500)|[문제 풀이](https://github.com/yh20studio/Algorithm-problem-solving/blob/master/baekjoon/lv.gold/5/테트로미노.py)|구현|5|
+|파일 합치기|[문제 링크](https://www.acmicpc.net/problem/11066)|[문제 풀이](https://github.com/yh20studio/Algorithm-problem-solving/blob/master/baekjoon/lv.gold/3/파일합치기.py)|다이나믹프로그래밍|3|
+|다리 만들기|[문제 링크](https://www.acmicpc.net/problem/2146)|[문제 풀이](https://github.com/yh20studio/Algorithm-problem-solving/blob/master/baekjoon/lv.gold/3/다리만들기.py)|BFS|3|
 |합분해|[문제 링크](https://www.acmicpc.net/problem/2225)|[문제 풀이](https://github.com/yh20studio/Algorithm-problem-solving/blob/master/baekjoon/lv.gold/5/합분해.py)|다이나믹프로그래밍|5|
 |행렬곱셈순서|[문제 링크](https://www.acmicpc.net/problem/11049)|[문제 풀이](https://github.com/yh20studio/Algorithm-problem-solving/blob/master/baekjoon/lv.gold/3/행렬곱셈순서.py)|다이나믹프로그래밍|3|
 |외판원순회|[문제 링크](https://www.acmicpc.net/problem/2098)|[문제 풀이](https://github.com/yh20studio/Algorithm-problem-solving/blob/master/baekjoon/lv.gold/1/외판원순회.py)|다이나믹프로그래밍, 비트마스킹|1|
@@ -121,7 +132,7 @@
 |가장 먼 노드|[문제 링크](https://programmers.co.kr/learn/courses/30/lessons/49189)|[문제 풀이](https://github.com/yh20studio/Algorithm-problem-solving/blob/master/programmers/lv.3/가장먼노드.py)|다익스트라, 우선순위 큐|
 |디스크 컨트롤러|[문제 링크](https://programmers.co.kr/learn/courses/30/lessons/42627)|[문제 풀이](https://github.com/yh20studio/Algorithm-problem-solving/blob/master/programmers/lv.3/디스크컨트롤러.py)|우선순위 큐|
 |정수 삼각형|[문제 링크](https://programmers.co.kr/learn/courses/30/lessons/43105)|[문제 풀이](https://github.com/yh20studio/Algorithm-problem-solving/blob/master/programmers/lv.3/정수삼각형.py)|다이나믹프로그래밍|
-
+|순위|[문제 링크](https://programmers.co.kr/learn/courses/30/lessons/49191)|[문제 풀이](https://github.com/yh20studio/Algorithm-problem-solving/blob/master/programmers/lv.3/순위.py)|BFS|
 </div>
 </details>
 
