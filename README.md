@@ -47,7 +47,7 @@
 |다리 만들기|[문제 링크](https://www.acmicpc.net/problem/2146)|[문제 풀이](https://github.com/yh20studio/Algorithm-problem-solving/blob/master/baekjoon/lv.gold/3/다리만들기.py)|BFS|3|
 |치킨 배달|[문제 링크](https://www.acmicpc.net/problem/15686)|[문제 풀이](https://github.com/yh20studio/Algorithm-problem-solving/blob/master/baekjoon/lv.gold/5/치킨배달.py)|조합|5|
 |적록색약|[문제 링크](https://www.acmicpc.net/problem/10026)|[문제 풀이](https://github.com/yh20studio/Algorithm-problem-solving/blob/master/baekjoon/lv.gold/5/적록색약.py)|BFS, 구현|5|
-|펠린드롬?|[문제 링크](https://www.acmicpc.net/problem/10942)|[문제 풀이](https://github.com/yh20studio/Algorithm-problem-solving/blob/master/baekjoon/lv.gold/3/펠린드롬?.py)|다이나믹프로그래밍|3|
+|펠린드롬?|[문제 링크](https://www.acmicpc.net/problem/10942)|[문제 풀이](https://github.com/yh20studio/Algorithm-problem-solving/blob/master/baekjoon/lv.gold/3/펠린드롬.py)|다이나믹프로그래밍|3|
 |트리의 지름|[문제 링크](https://www.acmicpc.net/problem/1167)|[문제 풀이](https://github.com/yh20studio/Algorithm-problem-solving/blob/master/baekjoon/lv.gold/3/트리의지름.py)|DFS, 트리|3|
 |합분해|[문제 링크](https://www.acmicpc.net/problem/2225)|[문제 풀이](https://github.com/yh20studio/Algorithm-problem-solving/blob/master/baekjoon/lv.gold/5/합분해.py)|다이나믹프로그래밍|5|
 |행렬곱셈순서|[문제 링크](https://www.acmicpc.net/problem/11049)|[문제 풀이](https://github.com/yh20studio/Algorithm-problem-solving/blob/master/baekjoon/lv.gold/3/행렬곱셈순서.py)|다이나믹프로그래밍|3|
