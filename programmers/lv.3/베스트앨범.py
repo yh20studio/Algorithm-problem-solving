@@ -1,6 +1,6 @@
 # link : https://programmers.co.kr/learn/courses/30/lessons/42579
 # Lv : 3
-# Category : 우선순위 큐, 구현
+# Category : 우선순위 큐, 해시
 
 # 각 장르마다 재생된 횟수를 모두 구하고, 가장 많이 재생된 장르순으로 나타내야한다.
 # 가장 많이 재생된 장르 순으로 부터 해당 장르에서 가장 많이 재생된 곡을 2곡까지 리턴하면 된다.
