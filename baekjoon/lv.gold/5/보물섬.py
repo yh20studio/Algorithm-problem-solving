@@ -1,4 +1,4 @@
-# link : https://www.acmicpc.net/problem/3190
+# link : https://www.acmicpc.net/problem/2589
 # Lv : gold 5
 # Category : BFS, 구현
 

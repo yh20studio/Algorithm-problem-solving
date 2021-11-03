@@ -75,7 +75,7 @@
 |DSLR|[문제 링크](https://www.acmicpc.net/problem/9019)|[문제 풀이](https://github.com/yh20studio/Algorithm-problem-solving/blob/master/baekjoon/lv.gold/5/DSLR.py)|BFS|5|
 |치즈|[문제 링크](https://www.acmicpc.net/problem/2636)|[문제 풀이](https://github.com/yh20studio/Algorithm-problem-solving/blob/master/baekjoon/lv.gold/5/치즈.py)|BFS, 구현|5|
 |빗물|[문제 링크](https://www.acmicpc.net/problem/14719)|[문제 풀이](https://github.com/yh20studio/Algorithm-problem-solving/blob/master/baekjoon/lv.gold/5/빗물.py)|구현|5|
-|보물섬|[문제 링크](https://www.acmicpc.net/problem/3190)|[문제 풀이](https://github.com/yh20studio/Algorithm-problem-solving/blob/master/baekjoon/lv.gold/5/보물섬.py)|BFS, 구현|5|
+|보물섬|[문제 링크](https://www.acmicpc.net/problem/2589)|[문제 풀이](https://github.com/yh20studio/Algorithm-problem-solving/blob/master/baekjoon/lv.gold/5/보물섬.py)|BFS, 구현|5|
 </div>
 
 </details>
