@@ -75,6 +75,7 @@
 |DSLR|[문제 링크](https://www.acmicpc.net/problem/9019)|[문제 풀이](https://github.com/yh20studio/Algorithm-problem-solving/blob/master/baekjoon/lv.gold/5/DSLR.py)|BFS|5|
 |치즈|[문제 링크](https://www.acmicpc.net/problem/2636)|[문제 풀이](https://github.com/yh20studio/Algorithm-problem-solving/blob/master/baekjoon/lv.gold/5/치즈.py)|BFS, 구현|5|
 |빗물|[문제 링크](https://www.acmicpc.net/problem/14719)|[문제 풀이](https://github.com/yh20studio/Algorithm-problem-solving/blob/master/baekjoon/lv.gold/5/빗물.py)|구현|5|
+|보물섬|[문제 링크](https://www.acmicpc.net/problem/3190)|[문제 풀이](https://github.com/yh20studio/Algorithm-problem-solving/blob/master/baekjoon/lv.gold/5/보물섬.py)|BFS, 구현|5|
 </div>
 
 </details>
@@ -142,6 +143,7 @@
 |정수 삼각형|[문제 링크](https://programmers.co.kr/learn/courses/30/lessons/43105)|[문제 풀이](https://github.com/yh20studio/Algorithm-problem-solving/blob/master/programmers/lv.3/정수삼각형.py)|다이나믹프로그래밍|
 |순위|[문제 링크](https://programmers.co.kr/learn/courses/30/lessons/49191)|[문제 풀이](https://github.com/yh20studio/Algorithm-problem-solving/blob/master/programmers/lv.3/순위.py)|BFS|
 |베스트 앨범|[문제 링크](https://programmers.co.kr/learn/courses/30/lessons/42579)|[문제 풀이](https://github.com/yh20studio/Algorithm-problem-solving/blob/master/programmers/lv.3/베스트앨범.py)|우선순위 큐, 해시|
+|자물쇠와 열쇠|[문제 링크](https://programmers.co.kr/learn/courses/30/lessons/60059)|[문제 풀이](https://github.com/yh20studio/Algorithm-problem-solving/blob/master/programmers/lv.3/자물쇠와열쇠.py)|구현|
 </div>
 </details>
 
