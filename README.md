@@ -80,6 +80,7 @@
 |빗물|[문제 링크](https://www.acmicpc.net/problem/14719)|[문제 풀이](https://github.com/yh20studio/Algorithm-problem-solving/blob/master/baekjoon/lv.gold/5/빗물.py)|구현|5|
 |보물섬|[문제 링크](https://www.acmicpc.net/problem/2589)|[문제 풀이](https://github.com/yh20studio/Algorithm-problem-solving/blob/master/baekjoon/lv.gold/5/보물섬.py)|BFS, 구현|5|
 |스타트링크|[문제 링크](https://www.acmicpc.net/problem/5014)|[문제 풀이](https://github.com/yh20studio/Algorithm-problem-solving/blob/master/baekjoon/lv.gold/5/스타트링크.py)|BFS|5|
+|숨박꼭질3|[문제 링크](https://www.acmicpc.net/problem/13549)|[문제 풀이](https://github.com/yh20studio/Algorithm-problem-solving/blob/master/baekjoon/lv.gold/5/숨박꼭질3.py)|우선순위 큐|5|
 </div>
 
 </details>
@@ -128,6 +129,15 @@
 |문자열 압축|[문제 링크](https://programmers.co.kr/learn/courses/30/lessons/60057)|[문제 풀이](https://github.com/yh20studio/Algorithm-problem-solving/blob/master/programmers/lv.2/문자열압축.py)|문자열, BFS|
 |멀쩡한 사각형|[문제 링크](https://programmers.co.kr/learn/courses/30/lessons/62048)|[문제 풀이](https://github.com/yh20studio/Algorithm-problem-solving/blob/master/programmers/lv.2/멀쩡한사각형.py)|최대 공약수|
 |전화번호 목록|[문제 링크](https://programmers.co.kr/learn/courses/30/lessons/42577)|[문제 풀이](https://github.com/yh20studio/Algorithm-problem-solving/blob/master/programmers/lv.2/전화번호목록.py)|접두사|
+|더 맵게|[문제 링크](https://programmers.co.kr/learn/courses/30/lessons/42626)|[문제 풀이](https://github.com/yh20studio/Algorithm-problem-solving/blob/master/programmers/lv.2/더맵게.py)|우선순위 큐|
+|짝 지어 제거하기|[문제 링크](https://programmers.co.kr/learn/courses/30/lessons/12973)|[문제 풀이](https://github.com/yh20studio/Algorithm-problem-solving/blob/master/programmers/lv.2/짝지어제거하기.py)|스택|
+|행렬 테두리 회전하기|[문제 링크](https://programmers.co.kr/learn/courses/30/lessons/77485)|[문제 풀이](https://github.com/yh20studio/Algorithm-problem-solving/blob/master/programmers/lv.2/행렬테두리회전하기.py)|구현|
+|괄호 변환|[문제 링크](https://programmers.co.kr/learn/courses/30/lessons/60058)|[문제 풀이](https://github.com/yh20studio/Algorithm-problem-solving/blob/master/programmers/lv.2/괄호변환.py)|구현, 문자열|
+|뉴스 클러스터링|[문제 링크](https://programmers.co.kr/learn/courses/30/lessons/17677)|[문제 풀이](https://github.com/yh20studio/Algorithm-problem-solving/blob/master/programmers/lv.2/뉴스클러스터링.py)|구현, 문자열|
+|거리두기 확인하기|[문제 링크](https://programmers.co.kr/learn/courses/30/lessons/81302)|[문제 풀이](https://github.com/yh20studio/Algorithm-problem-solving/blob/master/programmers/lv.2/거리두기확인하기.py)|구현, BFS|
+|프린터|[문제 링크](https://programmers.co.kr/learn/courses/30/lessons/42587)|[문제 풀이](https://github.com/yh20studio/Algorithm-problem-solving/blob/master/programmers/lv.2/프린터.py)|큐|
+|조이스틱|[문제 링크](https://programmers.co.kr/learn/courses/30/lessons/42860)|[문제 풀이](https://github.com/yh20studio/Algorithm-problem-solving/blob/master/programmers/lv.2/조이스틱.py)|그리디, 구현|
+|위장|[문제 링크](https://programmers.co.kr/learn/courses/30/lessons/42578)|[문제 풀이](https://github.com/yh20studio/Algorithm-problem-solving/blob/master/programmers/lv.2/위장.py)|조합|
 </div>
 </details>
 
@@ -148,6 +158,8 @@
 |순위|[문제 링크](https://programmers.co.kr/learn/courses/30/lessons/49191)|[문제 풀이](https://github.com/yh20studio/Algorithm-problem-solving/blob/master/programmers/lv.3/순위.py)|BFS|
 |베스트 앨범|[문제 링크](https://programmers.co.kr/learn/courses/30/lessons/42579)|[문제 풀이](https://github.com/yh20studio/Algorithm-problem-solving/blob/master/programmers/lv.3/베스트앨범.py)|우선순위 큐, 해시|
 |자물쇠와 열쇠|[문제 링크](https://programmers.co.kr/learn/courses/30/lessons/60059)|[문제 풀이](https://github.com/yh20studio/Algorithm-problem-solving/blob/master/programmers/lv.3/자물쇠와열쇠.py)|구현|
+|표 편집|[문제 링크](https://programmers.co.kr/learn/courses/30/lessons/81303)|[문제 풀이](https://github.com/yh20studio/Algorithm-problem-solving/blob/master/programmers/lv.3/표편집.py)|구현, 해시|
+|셔틀버스|[문제 링크](https://programmers.co.kr/learn/courses/30/lessons/17678)|[문제 풀이](https://github.com/yh20studio/Algorithm-problem-solving/blob/master/programmers/lv.3/셔틀버스.py)|구현, 우선순위 큐|
 </div>
 </details>
 
