@@ -81,6 +81,8 @@
 |보물섬|[문제 링크](https://www.acmicpc.net/problem/2589)|[문제 풀이](https://github.com/yh20studio/Algorithm-problem-solving/blob/master/baekjoon/lv.gold/5/보물섬.py)|BFS, 구현|5|
 |스타트링크|[문제 링크](https://www.acmicpc.net/problem/5014)|[문제 풀이](https://github.com/yh20studio/Algorithm-problem-solving/blob/master/baekjoon/lv.gold/5/스타트링크.py)|BFS|5|
 |숨박꼭질3|[문제 링크](https://www.acmicpc.net/problem/13549)|[문제 풀이](https://github.com/yh20studio/Algorithm-problem-solving/blob/master/baekjoon/lv.gold/5/숨박꼭질3.py)|우선순위 큐|5|
+|트리|[문제 링크](https://www.acmicpc.net/problem/1068)|[문제 풀이](https://github.com/yh20studio/Algorithm-problem-solving/blob/master/baekjoon/lv.gold/5/트리.py)|트리, 큐|5|
+|두 용액|[문제 링크](https://www.acmicpc.net/problem/2470)|[문제 풀이](https://github.com/yh20studio/Algorithm-problem-solving/blob/master/baekjoon/lv.gold/5/두용액.py)|이분탐색|5|
 </div>
 
 </details>
