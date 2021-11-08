@@ -83,6 +83,8 @@
 |숨박꼭질3|[문제 링크](https://www.acmicpc.net/problem/13549)|[문제 풀이](https://github.com/yh20studio/Algorithm-problem-solving/blob/master/baekjoon/lv.gold/5/숨박꼭질3.py)|우선순위 큐|5|
 |트리|[문제 링크](https://www.acmicpc.net/problem/1068)|[문제 풀이](https://github.com/yh20studio/Algorithm-problem-solving/blob/master/baekjoon/lv.gold/5/트리.py)|트리, 큐|5|
 |두 용액|[문제 링크](https://www.acmicpc.net/problem/2470)|[문제 풀이](https://github.com/yh20studio/Algorithm-problem-solving/blob/master/baekjoon/lv.gold/5/두용액.py)|이분탐색|5|
+|1학년|[문제 링크](https://www.acmicpc.net/problem/5557)|[문제 풀이](https://github.com/yh20studio/Algorithm-problem-solving/blob/master/baekjoon/lv.gold/5/1학년.py)|다이나믹프로그래밍|5|
+|Puyo Puyo|[문제 링크](https://www.acmicpc.net/problem/11559)|[문제 풀이](https://github.com/yh20studio/Algorithm-problem-solving/blob/master/baekjoon/lv.gold/5/PuyoPuyo.py)|BFS, 구현|5|
 </div>
 
 </details>
