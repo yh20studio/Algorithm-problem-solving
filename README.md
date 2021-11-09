@@ -85,6 +85,7 @@
 |두 용액|[문제 링크](https://www.acmicpc.net/problem/2470)|[문제 풀이](https://github.com/yh20studio/Algorithm-problem-solving/blob/master/baekjoon/lv.gold/5/두용액.py)|이분탐색|5|
 |1학년|[문제 링크](https://www.acmicpc.net/problem/5557)|[문제 풀이](https://github.com/yh20studio/Algorithm-problem-solving/blob/master/baekjoon/lv.gold/5/1학년.py)|다이나믹프로그래밍|5|
 |Puyo Puyo|[문제 링크](https://www.acmicpc.net/problem/11559)|[문제 풀이](https://github.com/yh20studio/Algorithm-problem-solving/blob/master/baekjoon/lv.gold/5/PuyoPuyo.py)|BFS, 구현|5|
+|숨박꼭질2|[문제 링크](https://www.acmicpc.net/problem/12851)|[문제 풀이](https://github.com/yh20studio/Algorithm-problem-solving/blob/master/baekjoon/lv.gold/5/숨박꼭질2.py)|BFS, 구현|5|
 </div>
 
 </details>
