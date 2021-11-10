@@ -86,6 +86,7 @@
 |1학년|[문제 링크](https://www.acmicpc.net/problem/5557)|[문제 풀이](https://github.com/yh20studio/Algorithm-problem-solving/blob/master/baekjoon/lv.gold/5/1학년.py)|다이나믹프로그래밍|5|
 |Puyo Puyo|[문제 링크](https://www.acmicpc.net/problem/11559)|[문제 풀이](https://github.com/yh20studio/Algorithm-problem-solving/blob/master/baekjoon/lv.gold/5/PuyoPuyo.py)|BFS, 구현|5|
 |숨박꼭질2|[문제 링크](https://www.acmicpc.net/problem/12851)|[문제 풀이](https://github.com/yh20studio/Algorithm-problem-solving/blob/master/baekjoon/lv.gold/5/숨박꼭질2.py)|BFS, 구현|5|
+|이모티콘|[문제 링크](https://www.acmicpc.net/problem/14226)|[문제 풀이](https://github.com/yh20studio/Algorithm-problem-solving/blob/master/baekjoon/lv.gold/5/이모티콘.py)|BFS|5|
 </div>
 
 </details>
@@ -143,6 +144,7 @@
 |프린터|[문제 링크](https://programmers.co.kr/learn/courses/30/lessons/42587)|[문제 풀이](https://github.com/yh20studio/Algorithm-problem-solving/blob/master/programmers/lv.2/프린터.py)|큐|
 |조이스틱|[문제 링크](https://programmers.co.kr/learn/courses/30/lessons/42860)|[문제 풀이](https://github.com/yh20studio/Algorithm-problem-solving/blob/master/programmers/lv.2/조이스틱.py)|그리디, 구현|
 |위장|[문제 링크](https://programmers.co.kr/learn/courses/30/lessons/42578)|[문제 풀이](https://github.com/yh20studio/Algorithm-problem-solving/blob/master/programmers/lv.2/위장.py)|조합|
+|게임 맵 최단거리|[문제 링크](https://programmers.co.kr/learn/courses/30/lessons/1844)|[문제 풀이](https://github.com/yh20studio/Algorithm-problem-solving/blob/master/programmers/lv.2/게임맵최단거리.py)|BFS|
 </div>
 </details>
 
