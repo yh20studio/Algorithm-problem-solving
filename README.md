@@ -89,6 +89,7 @@
 |이모티콘|[문제 링크](https://www.acmicpc.net/problem/14226)|[문제 풀이](https://github.com/yh20studio/Algorithm-problem-solving/blob/master/baekjoon/lv.gold/5/이모티콘.py)|BFS|5|
 |이중 우선순위 큐|[문제 링크](https://www.acmicpc.net/problem/7662)|[문제 풀이](https://github.com/yh20studio/Algorithm-problem-solving/blob/master/baekjoon/lv.gold/5/이중우선순위큐.py)|우선순위 큐|5|
 |ABCDE|[문제 링크](https://www.acmicpc.net/problem/13023)|[문제 풀이](https://github.com/yh20studio/Algorithm-problem-solving/blob/master/baekjoon/lv.gold/5/ABCDE.py)|DFS|5|
+|이분 그래프|[문제 링크](https://www.acmicpc.net/problem/1707)|[문제 풀이](https://github.com/yh20studio/Algorithm-problem-solving/blob/master/baekjoon/lv.gold/4/이분그래프.py)|BFS|4|
 </div>
 
 </details>
