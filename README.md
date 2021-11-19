@@ -1,10 +1,10 @@
 # 알고리즘 문제풀이
-> 파이썬을 활용하여 알고리즘 문제 풀이를 하고 코드르 저장하고 있습니다. 각 문제의 논리구조, 문제 접근 방법을 주석으로 작성하고 있습니다.
+> 알고리즘 문제 풀이를 하고 코드르 저장하고 있습니다. 각 문제의 논리구조, 문제 접근 방법을 주석으로 작성하고 있습니다.
 
 
 # Java
 
-## BaekJoon
+> ## BaekJoon
 
 <details>
 <summary>Lv Silver</summary>
@@ -13,7 +13,7 @@
 ## [Lv Silver]
 |문제|링크|코드|카테고리|난이도|
 |:---:|:---:|:---:|:---:|:---:|
-|토마토|[문제 링크](https://www.acmicpc.net/problem/7576)|[문제 풀이](https://github.com/yh20studio/Algorithm-problem-solving/blob/master/java/baekjoon/lv.silver/1/토마토.py)|BFS|1|
+|토마토|[문제 링크](https://www.acmicpc.net/problem/7576)|[문제 풀이](https://github.com/yh20studio/Algorithm-problem-solving/blob/master/java/baekjoon/lv.silver/1/토마토.java)|BFS|1|
 </div>
 
 </details>
@@ -21,7 +21,7 @@
 
 # Python
 
-## BaekJoon
+> ## BaekJoon
 
 <details>
 <summary>Lv Silver</summary>
@@ -128,7 +128,7 @@
 
 </details>
 
-## Programmers
+> ## Programmers
 
 <details>
 <summary>Weekly Challenge</summary>
