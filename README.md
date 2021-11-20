@@ -14,6 +14,7 @@
 |문제|링크|코드|카테고리|난이도|
 |:---:|:---:|:---:|:---:|:---:|
 |토마토|[문제 링크](https://www.acmicpc.net/problem/7576)|[문제 풀이](https://github.com/yh20studio/Algorithm-problem-solving/blob/master/java/baekjoon/lv.silver/1/토마토.java)|BFS|1|
+|숨박꼭질|[문제 링크](https://www.acmicpc.net/problem/1697)|[문제 풀이](https://github.com/yh20studio/Algorithm-problem-solving/blob/master/java/baekjoon/lv.silver/1/숨박꼭질.java)|BFS|1|
 </div>
 
 </details>
