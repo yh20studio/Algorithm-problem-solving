@@ -6,6 +6,7 @@
     수빈이의 위치와 시간을 기반으로 BFS를 이용해서 동생의 위치까지 탐색하는 것으로 해결했습니다.
 */
 
+
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
