@@ -15,6 +15,8 @@
 |:---:|:---:|:---:|:---:|:---:|
 |토마토|[문제 링크](https://www.acmicpc.net/problem/7576)|[문제 풀이](https://github.com/yh20studio/Algorithm-problem-solving/blob/master/java/baekjoon/lv.silver/1/토마토.java)|BFS|1|
 |숨박꼭질|[문제 링크](https://www.acmicpc.net/problem/1697)|[문제 풀이](https://github.com/yh20studio/Algorithm-problem-solving/blob/master/java/baekjoon/lv.silver/1/숨박꼭질.java)|BFS|1|
+|정수 삼각형|[문제 링크](https://www.acmicpc.net/problem/1932)|[문제 풀이](https://github.com/yh20studio/Algorithm-problem-solving/blob/master/java/baekjoon/lv.silver/1/정수삼각형.java)|BFS|1|
+|포도주 시식|[문제 링크](https://www.acmicpc.net/problem/2156)|[문제 풀이](https://github.com/yh20studio/Algorithm-problem-solving/blob/master/java/baekjoon/lv.silver/1/포도주시식.java)|다이나믹 프로그래밍|1|
 </div>
 
 </details>
