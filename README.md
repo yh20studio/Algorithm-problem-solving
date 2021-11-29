@@ -22,6 +22,18 @@
 
 </details>
 
+<details>
+<summary>Lv Gold</summary>
+<div markdown="gold">
+
+## [Lv Gold]
+|문제|링크|코드|카테고리|난이도|
+|:---:|:---:|:---:|:---:|:---:|
+|알고스팟|[문제 링크](https://www.acmicpc.net/problem/1261)|[문제 풀이](https://github.com/yh20studio/Algorithm-problem-solving/blob/master/java/baekjoon/lv.gold/4/알고스팟.java)|BFS, 우선순위 큐|4|
+</div>
+
+</details>
+
 
 
 # Python
