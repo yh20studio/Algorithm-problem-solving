@@ -31,6 +31,7 @@
 |:---:|:---:|:---:|:---:|:---:|
 |알고스팟|[문제 링크](https://www.acmicpc.net/problem/1261)|[문제 풀이](https://github.com/yh20studio/Algorithm-problem-solving/blob/master/java/baekjoon/lv.gold/4/알고스팟.java)|BFS, 우선순위 큐|4|
 |빙산|[문제 링크](https://www.acmicpc.net/problem/2573)|[문제 풀이](https://github.com/yh20studio/Algorithm-problem-solving/blob/master/java/baekjoon/lv.gold/4/빙산.java)|BFS, 구현|4|
+|미세먼지 안녕!|[문제 링크](https://www.acmicpc.net/problem/17144)|[문제 풀이](https://github.com/yh20studio/Algorithm-problem-solving/blob/master/java/baekjoon/lv.gold/4/미세먼지안녕.java)|BFS, 구현|4|
 </div>
 
 </details>
