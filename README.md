@@ -34,6 +34,7 @@
 |미세먼지 안녕!|[문제 링크](https://www.acmicpc.net/problem/17144)|[문제 풀이](https://github.com/yh20studio/Algorithm-problem-solving/blob/master/java/baekjoon/lv.gold/4/미세먼지안녕.java)|BFS, 구현|4|
 |특정한 최단 경로|[문제 링크](https://www.acmicpc.net/problem/1504)|[문제 풀이](https://github.com/yh20studio/Algorithm-problem-solving/blob/master/java/baekjoon/lv.gold/4/특정한최단경로.java)|다익스트라|4|
 |오큰수|[문제 링크](https://www.acmicpc.net/problem/17298)|[문제 풀이](https://github.com/yh20studio/Algorithm-problem-solving/blob/master/java/baekjoon/lv.gold/4/오큰수.java)|스택|4|
+|트리의 지름|[문제 링크](https://www.acmicpc.net/problem/1967)|[문제 풀이](https://github.com/yh20studio/Algorithm-problem-solving/blob/master/java/baekjoon/lv.gold/4/트리의지름.java)|BFS|4|
 </div>
 
 </details>
